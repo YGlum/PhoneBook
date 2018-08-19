@@ -1,0 +1,3 @@
+Ошибка работы с текстом:
+SDL_CreateTextureFromSurface() passed NULL surface
+xx
